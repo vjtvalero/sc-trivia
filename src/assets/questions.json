@@ -1,0 +1,44 @@
+{
+  "yellow": {
+    "200": "Lorem ipsum",
+    "400": "Lorem ipsum",
+    "600": "Lorem ipsum",
+    "800": "Lorem ipsum",
+    "1000": "Lorem ipsum"
+  },
+  "blue": {
+    "200": "Lorem ipsum",
+    "400": "Lorem ipsum",
+    "600": "Lorem ipsum",
+    "800": "Lorem ipsum",
+    "1000": "Lorem ipsum"
+  },
+  "lightpink": {
+    "200": "Lorem ipsum",
+    "400": "Lorem ipsum",
+    "600": "Lorem ipsum",
+    "800": "Lorem ipsum",
+    "1000": "Lorem ipsum"
+  },
+  "purple": {
+    "200": "Lorem ipsum",
+    "400": "Lorem ipsum",
+    "600": "Lorem ipsum",
+    "800": "Lorem ipsum",
+    "1000": "Lorem ipsum"
+  },
+  "pink": {
+    "200": "Lorem ipsum",
+    "400": "Lorem ipsum",
+    "600": "Lorem ipsum",
+    "800": "Lorem ipsum",
+    "1000": "Lorem ipsum"
+  },
+  "green": {
+    "200": "Lorem ipsum",
+    "400": "Lorem ipsum",
+    "600": "Lorem ipsum",
+    "800": "Lorem ipsum",
+    "1000": "Lorem ipsum"
+  }
+}
